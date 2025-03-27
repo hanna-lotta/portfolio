@@ -1,0 +1,24 @@
+
+.contact {
+	display: flex;
+	flex-direction: column;
+h2{
+	color: rgb(223, 185, 128);
+	text-decoration: underline;
+	padding-top: 1em;
+}
+	
+
+.my-contacts {
+	display: flex;
+	flex-direction: column;
+	background-color: blanchedalmond;
+	padding: 1em;
+	border-radius: 0.5em;
+	box-shadow: 0.2rem 0.2rem 0.5rem rgba(8, 8, 8, 0.2);
+	margin: 1em;
+	color: rgb(106, 104, 104);
+	gap: 0.5em;
+	
+}
+}

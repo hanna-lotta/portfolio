@@ -1,12 +1,26 @@
 import { Link, useParams } from 'react-router'
+import './Education.css'
+import { studiesList } from '../data/studiesList'
+
 
 const Education = () => {
-  return (
-	<div className="home">
-	  <h2>mina utbildningar</h2>
-	  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur illo non, odio hic sit iure corporis velit suscipit libero at vitae adipisci maxime minus molestiae quod ab ad. Sed, necessitatibus!</p>
-	</div>
-  )
+	return (
+		<div className="education">
+		<h2>Erfarenheter </h2>
+		<div className="education-card">
+		{studiesList.map((studie) => (
+			<div className='my-education' key={studie.id}>
+			<h3>{studie.title}</h3>
+			<p>{studie.shortDescription}</p>
+			<p>{studie.timeline}</p>
+			</div>
+			
+		))}
+		
+		</div>
+		</div>
+	)
 }
+
 
 export default Education

@@ -1,0 +1,17 @@
+.education{
+h2{
+	text-decoration: underline;
+	color: rgb(223, 185, 128);
+	padding-top: 1em;
+}
+	.my-education{
+		padding: 1em;
+		border-radius: 0.5em;
+		box-shadow: 0.2rem 0.2rem 0.5rem rgba(8, 8, 8, 0.2);
+		margin: 1em;
+		background-color: blanchedalmond;
+		color: rgb(106, 104, 104);
+		width: 16em;
+		text-align: center;
+	}
+}
