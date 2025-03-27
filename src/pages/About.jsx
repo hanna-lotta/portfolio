@@ -3,8 +3,10 @@ import { Link, useParams } from 'react-router'
 const About = () => {
 	return (
 	  <div className="home">
-		<h2>Om mig </h2>
-		<p>Upptäck ett magiskt universum fyllt med spännande, roliga och pedagogiska leksaker för barn i alla åldrar. Vår app gör det enkelt att hitta de perfekta leksakerna – oavsett om du letar efter klassiska favoriter, trendiga nyheter eller hållbara alternativ. Bläddra, beställ och få dina varor levererade direkt till dörren med bara några klick.</p>
+		<h2> Hanna Seldén </h2>
+		<p>Student på NBI/Handelsakademin.</p>
+		<p>Lång erfarenhet med att arbeta med människor främst på boenden.</p>
+		<p>Har studerat Beteendevetenskap och psykologi.</p>
 	  </div>
 	)
   }
