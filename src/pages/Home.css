@@ -1,0 +1,78 @@
+.home {
+	display: flex;
+	justify-content: center;
+	width: 100%;
+	
+	
+
+	.sidebar {
+		 display: flex;
+    	flex-direction: column;
+		justify-content: flex-start;
+    	align-items: center;
+		width: 250px;
+		margin: 1em 0;
+		background-color: #e6e3dd;
+		color: #2c3e50;
+		padding: 1em;
+		border-radius: 0.5em;
+		box-shadow: 0.2rem 0.2rem 0.5rem rgba(8, 8, 8, 0.2);
+	}
+
+	.cv-header {
+		text-decoration: underline;
+		color: rgb(223, 185, 128);
+		padding-top: 1em;
+		text-align: center;
+	}
+	.main-content {
+    flex: 1;
+    padding: 2em 4em;
+    display: flex;
+	align-items: center;
+    flex-direction: column;
+	width: 100%;
+	padding: 1em;
+		border-radius: 0.5em;
+		box-shadow: 0.2rem 0.2rem 0.5rem rgba(8, 8, 8, 0.2);
+		margin: 1em;
+		background-color: blanchedalmond;
+		color: rgb(106, 104, 104);
+		width: 35em;
+		text-align: center;
+
+
+	p {
+		padding: 1em;
+		margin-left: 1em;
+	}
+    
+	}
+
+	.imgprofile {
+		width: 150px;
+		height: 150px;
+		border-radius: 100%;
+	}
+	.kontact, .skills, .languages, .references {
+		color: #2c3e50;
+		border-bottom: 2px solid #2c3e50;
+  		padding-bottom: 0.3em;
+  		display: inline-block;
+		margin-top: 1em;
+	}
+	.kontact-list, .skills-list, .languages-list, .references-list {
+  		max-width: 220px;      
+  		padding: 0.2em;
+ 		margin-top: 0.5em ;
+  		list-style: none;
+  		word-break: break-all; 
+	}
+	
+	.contact-list li, .skills-list li, .languages-list li, .references-list li {
+  		padding: 0.1em;
+  		margin-bottom: 0.2em;
+  		font-size: 1em;
+  		color: #2c3e50;
+	}
+}

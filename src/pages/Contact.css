@@ -2,6 +2,10 @@
 .contact {
 	display: flex;
 	flex-direction: column;
+	align-items: center;
+	
+	width: 100%;
+	min-height: 100vh;
 h2{
 	color: rgb(223, 185, 128);
 	text-decoration: underline;
@@ -19,6 +23,7 @@ h2{
 	margin: 1em;
 	color: rgb(106, 104, 104);
 	gap: 0.5em;
-	
+	width: 35em;
+	text-align: center;
 }
 }

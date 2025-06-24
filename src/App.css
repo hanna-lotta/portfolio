@@ -6,7 +6,7 @@ header {
 	color: white;
 	text-align: center;
 	padding: 2em;
-	margin-bottom: 20px;
+	
 
 
 	h1 {
@@ -15,7 +15,6 @@ header {
 		margin-right: 1.6em;
 		color: rgb(232, 113, 92);
 	}
-
 
 	.links {
 		display: flex;

@@ -1,9 +1,10 @@
 
-
 const studiesList = [
-	  { id: 1, title: "Fontend Developer", timeline: "20240818-20260620", shortDescription: "A cuddly teddy bear." },
-	  { id: 2, title: "Beteendevetare", timeline: "2005-2009", shortDescription: "A toy train with track." },
-	  { id: 3, title: "Steg-1 terapeut", timeline: "2009-2010", shortDescription: "A remote control car." },
+	  { id: 1, title: "Webbshop: Summer Toys", timeline: "2025", shortDescription: "React, JavaScript, CSS – Publicerad på GitHub Pages", description: "Utvecklade en responsiv webbshop i React för sommarleksaker med funktionalitet för sökning, sortering och en dynamisk kundvagn. Användaren kan filtrera produkter, söka i realtid och hantera kundvagnen, där totalsumman uppdateras automatiskt. För backend-anrop använde jag Firestore (en del av Firebase) för att hantera produktdata, vilket visar min förmåga att integrera molnbaserade databaser med modern frontend-teknik.", Link: "https://hanna-lotta.github.io/summertoys/", github: "https://github.com/hanna-lotta/summertoys" },
+	  { id: 2, title: "Foodtruck App", timeline: "2024", shortDescription: "HTML, CSS, JavaScript (vanilla)", description: "Mitt första egna webbutvecklingsprojekt: en menyapp för en foodtruck där användaren kan välja rätter, lägga dem i kundvagn och skicka en beställning. Projektet inkluderar API-anrop för att hämta produktdata, och gav mig praktisk erfarenhet av DOM-manipulation, eventhantering och grundläggande asynkron JavaScript med fetch.", Link: "https://hanna-lotta.github.io/foodtruck/", github: "https://github.com/hanna-lotta/foodtruck" },
+	  { id: 3, title: "Enhetstest", timeline: "2025", shortDescription: "Enhetstestning med Jest", description: "I detta projekt implementerade jag enhetstestning med Jest för att säkerställa kodens funktionalitet och stabilitet. Jag skrev tester för olika komponenter och funktioner i min React-applikation, vilket förbättrade kodens kvalitet och minskade risken för buggar vid framtida ändringar. Genom att använda Jest kunde jag automatisera testningen och integrera den i min utvecklingsprocess.", github: "https://github.com/hanna-lotta/foodtruck"},
+	  { id: 4, title: "End-To-End test", timeline: "2025", shortDescription: "End-To-End testning med playwright", description: "I detta projekt implementerade jag end-to-end testning med Playwright för att säkerställa att hela applikationen fungerar som förväntat från användarens perspektiv. Jag skrev tester som simulerade användarinteraktioner, inklusive navigering, formulärinmatning och produktköp, vilket säkerställde att alla delar av webbshoppen fungerade sömlöst tillsammans. Genom att använda Playwright kunde jag också testa applikationen på olika webbläsare och enheter.", github: "https://github.com/hanna-lotta/foodtruck"},
+	 
 	]
 
 	export { studiesList }
