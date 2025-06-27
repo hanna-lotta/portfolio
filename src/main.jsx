@@ -7,7 +7,8 @@ import Home from './pages/Home.jsx'
 import About from './pages/About.jsx'
 import Prodject from './pages/Prodject.jsx'
 import Education from './pages/Education.jsx'
-import Contact from './pages/Contact.jsx'
+import Contact from './pages/LIA.jsx'
+import LIA from './pages/LIA.jsx'
 
 
 const router = createHashRouter ([
@@ -32,8 +33,8 @@ const router = createHashRouter ([
 				Component: Education
 			},
 			{
-				path: "/contact",
-				Component: Contact
+				path: "/lia",
+				Component: LIA
 			}
 
 		]

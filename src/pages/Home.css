@@ -18,27 +18,37 @@
 		border-radius: 0.5em;
 		box-shadow: 0.2rem 0.2rem 0.5rem rgba(8, 8, 8, 0.2);
 	}
-
-	.cv-header {
+	.cv-mainheader {
 		text-decoration: underline;
 		color: rgb(223, 185, 128);
 		padding-top: 1em;
 		text-align: center;
 	}
+	.cv-header {
+		text-decoration: underline;
+		/*color: rgb(223, 185, 128);*/
+		color: #2c3e50;
+		padding: 1em;
+		text-align: center;
+	}
+	.CV {
+		flex: 1;
+    	padding: 2em 4em;
+    	display: flex;
+		align-items: center;
+    	flex-direction: column;
+	
+	}
 	.main-content {
-    flex: 1;
-    padding: 2em 4em;
-    display: flex;
-	align-items: center;
-    flex-direction: column;
-	width: 100%;
-	padding: 1em;
+   		width: 100%;
+		padding: 1em;
 		border-radius: 0.5em;
 		box-shadow: 0.2rem 0.2rem 0.5rem rgba(8, 8, 8, 0.2);
 		margin: 1em;
 		background-color: blanchedalmond;
-		color: rgb(106, 104, 104);
-		width: 35em;
+		/*color: rgb(106, 104, 104);*/
+		color: #2c3e50;
+	
 		text-align: center;
 
 

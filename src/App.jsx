@@ -17,7 +17,7 @@ function App() {
 			<NavLink to="/about"> Personligt Brev </NavLink>
 			<NavLink to="/prodject"> Projekt </NavLink>
 			<NavLink to="/education"> Projekt </NavLink>
-			<NavLink to="/contact"> LIA </NavLink>
+			<NavLink to="/lia"> LIA </NavLink>
 		</nav>
 	  </header>
 	  <main>

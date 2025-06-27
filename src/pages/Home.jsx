@@ -2,6 +2,9 @@ import { Link, useParams } from 'react-router'
 import imgprofile from '../assets/img-profile.png'
 import './Home.css'
 import {CVList} from '../data/CVList'
+import { workExperience } from '../data/workExperience'
+import { myProfile } from '../data/myProfile'
+
 const Home = () => {
 	return (
 	  <div className="home">
@@ -51,35 +54,31 @@ const Home = () => {
 		<p>Övriga referenser lämnas gärna på begäran.</p>
 		</div>
 		<div className="CV">
-		<h2 className='cv-header'>Frontendutvecklare (YH)</h2>
-		<h2 className='cv-header'>NBI/Handelsakademin, Göteborg | 2024–2026</h2>
+		<h1 className='cv-mainheader'>CV</h1>
 		<div className="CV-card">
-		 <div className="main-content">
+			<div className="main-content">
+				<h2 className='cv-header'>PROFIL</h2>
+				<p>{myProfile.description}</p>
+
+				<h2 className='cv-header'>UTBILDNING</h2>
 			{CVList.map((cv) => (
 				<div className='my-education' key={cv.id}>
 				<h3>{cv.title}</h3>
+				<h4>{cv.school} | {cv.period}</h4>
 				<p>{cv.description}</p>
 				</div>
 			))}
-		</div>
-		</div>
-			{/*
-		<h2>Frontendutvecklare (YH)</h2>
-		<h2>NBI/Handelsakademin, Göteborg | 2024–2026</h2>
-		<p>Praktisk och yrkesinriktad utbildning med fokus på moderna webbutvecklingsverktyg och agila arbetssätt. Vi arbetar med HTML, CSS, JavaScript, React, Git/GitHub, REST API:er, Firestore, UX/UI, testning och TypeScript (fullstackmodul). Fokus ligger på att bygga responsiva, tillgängliga och funktionella webbapplikationer i team och individuellt.</p>
-		<ul>
-			<li>HTML, CSS, JavaScript och React</li>
-			<li>Git/GitHub för versionshantering och samarbete</li>
-			<li>REST API:er för datakommunikation</li>
-			<li>Firestore för datalagring och hantering</li>
-			<li>UX/UI-designprinciper för användarcentrerad utveckling</li>
-			<li>Responsiv design för olika enheter och skärmstorlekar</li>
-			<li>Tillgänglighet för att säkerställa att webbplatser är användbara för alla</li>
-			<li>Agila metoder för effektivt teamarbete och projektledning</li>
-			<li>Testning för att säkerställa kodkvalitet och funktionalitet</li>
-			<li>TypeScript för typad JavaScript-utveckling</li>
-			<li>Fullstack med TypeScript (kommande kursmodul)</li>
-		</ul>*/}
+
+			<h2 className='cv-header'>ARBETSLIVSERFARENHET</h2>
+				{workExperience.map((experience) => (
+					<div className='my-experience' key={experience.id}>
+					<h3>{experience.title}</h3>
+					<h4>{experience.company} | {experience.period}</h4>
+					<p>{experience.description}</p>
+					</div>
+				))}
+			</div>
+		</div>	
 		</div>
 	  </div>
 	)

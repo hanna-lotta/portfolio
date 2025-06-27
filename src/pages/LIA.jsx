@@ -1,9 +1,9 @@
 import { Link, useParams } from 'react-router'
-import './Contact.css'
+import './LIA.css'
 
-const Contact = () => {
+const LIA = () => {
 	return (
-	  <div className="contact">
+	  <div className="lia">
 		<h2>LIA</h2>
 		<section className="my-contacts">
 		<h3>Jag söker LIA-praktik under två perioder:</h3>
@@ -15,4 +15,4 @@ const Contact = () => {
 	)
   }
   
-  export default Contact
+  export default LIA
