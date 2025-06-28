@@ -1,0 +1,35 @@
+.letter {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	width: 100%;
+
+	.letter-header {
+		text-decoration: underline;
+		color: rgb(223, 185, 128);
+		text-align: center;
+		padding-top: 1em;
+  	}
+
+	.letter-card {
+	  	background-color: blanchedalmond;
+		color: rgb(106, 104, 104);;
+	  	font-size: 1.2em;
+  		line-height: 1.6;
+  		margin: 2em auto;
+  		max-width: 800px;
+  		padding: 1em;
+  		border-radius: 8px;
+  		/*font-family: 'Caveat', cursive;*/
+  		/*font-family: 'Josefin Sans', sans-serif;*/
+  		/*font-family: 'Adhadi', cursive;*/
+  		font-family: 'Gabriela', serif;
+  		font-size: 1.5em;
+	}
+	.signature {
+		font-family: 'Gabriela', cursive;
+		padding-top: 1em;
+	}
+  
+  
+}

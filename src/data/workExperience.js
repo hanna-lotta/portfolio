@@ -2,10 +2,11 @@
 const workExperience = [
 	{
 		id: 1,
-		title: "Frontendutvecklare (YH)",
-		company: "NBI/Handelsakademin, Göteborg",
-		period: "2024–2026",
-		description: "Praktisk och yrkesinriktad utbildning med fokus på moderna webbutvecklingsverktyg och agila arbetssätt. Vi arbetar med HTML, CSS, JavaScript, React, Git/GitHub, REST API:er, Firestore, UX/UI, testning och TypeScript (fullstackmodul). Fokus ligger på att bygga responsiva, tillgängliga och funktionella webbapplikationer i team och individuellt.",
+		title: "Stödassistent",
+		company: "Lindholmsallén 25 & 43",
+		employer: "Göteborgs Stad",
+		period: "2021–pågående",
+		description: "Arbetar som stödassistent med fokus på att skapa en trygg och stimulerande miljö för personer med funktionsnedsättningar. Jag ansvarar för att stödja i vardagliga aktiviteter, främja självständighet och delaktighet, samt anpassa insatser efter individuella behov. Genom att använda min kommunikationsförmåga och empati, strävar jag efter att förbättra livskvaliteten för de personer jag arbetar med.",
 	},
 	{
 		id: 2,

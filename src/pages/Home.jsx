@@ -74,6 +74,7 @@ const Home = () => {
 					<div className='my-experience' key={experience.id}>
 					<h3>{experience.title}</h3>
 					<h4>{experience.company} | {experience.period}</h4>
+					<h4>Arbetsgivare: {experience.employer}</h4>
 					<p>{experience.description}</p>
 					</div>
 				))}

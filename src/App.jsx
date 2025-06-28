@@ -15,7 +15,6 @@ function App() {
 			
 			<NavLink to= "/">CV</NavLink>
 			<NavLink to="/about"> Personligt Brev </NavLink>
-			<NavLink to="/prodject"> Projekt </NavLink>
 			<NavLink to="/education"> Projekt </NavLink>
 			<NavLink to="/lia"> LIA </NavLink>
 		</nav>

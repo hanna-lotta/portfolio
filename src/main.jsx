@@ -5,9 +5,7 @@ import App from './App.jsx'
 import { createHashRouter, RouterProvider } from 'react-router'
 import Home from './pages/Home.jsx'
 import About from './pages/About.jsx'
-import Prodject from './pages/Prodject.jsx'
 import Education from './pages/Education.jsx'
-import Contact from './pages/LIA.jsx'
 import LIA from './pages/LIA.jsx'
 
 
@@ -23,10 +21,6 @@ const router = createHashRouter ([
 			{
 				path: "/about/",
 				Component: About
-			},
-			{
-				path: "/prodject",
-				Component: Prodject
 			},
 			{
 				path: "/education",

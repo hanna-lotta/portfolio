@@ -21,12 +21,11 @@
 	.cv-mainheader {
 		text-decoration: underline;
 		color: rgb(223, 185, 128);
-		padding-top: 1em;
 		text-align: center;
 	}
 	.cv-header {
 		text-decoration: underline;
-		/*color: rgb(223, 185, 128);*/
+		text-underline-offset: 0.5em;
 		color: #2c3e50;
 		padding: 1em;
 		text-align: center;
@@ -46,15 +45,14 @@
 		box-shadow: 0.2rem 0.2rem 0.5rem rgba(8, 8, 8, 0.2);
 		margin: 1em;
 		background-color: blanchedalmond;
-		/*color: rgb(106, 104, 104);*/
 		color: #2c3e50;
-	
 		text-align: center;
 
 
 	p {
 		padding: 1em;
 		margin-left: 1em;
+		font-size: large;
 	}
     
 	}
