@@ -28,11 +28,20 @@ const Home = () => {
 			<li>Javascript</li>
 			<li>REACT</li>
 			<li>Git/GitHub</li>
+			<li>Figma</li>
+			<li>Pixlr</li>
 			<li>Node.js</li>
 			<li>VS Code</li>
 			<li>REST API:er</li>
 			<li>Firestore</li>
 			<li>UX/UI</li>
+			<li>Joi</li>
+			<li>Zustand</li>
+			<li>API</li>
+			<li>SCRUM</li>
+			<li>Trello</li>
+			<li>User stories</li>
+			<li>React Routing</li>
 			<li>Responsiv design</li>
 			<li>Tillgänglighet</li>
 			<li>Agila metoder</li>

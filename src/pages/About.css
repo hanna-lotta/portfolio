@@ -26,6 +26,9 @@
   		font-family: 'Gabriela', serif;
   		font-size: 1.5em;
 	}
+	.letter-content {
+  		white-space: pre-line;
+	}
 	.signature {
 		font-family: 'Gabriela', cursive;
 		padding-top: 1em;
