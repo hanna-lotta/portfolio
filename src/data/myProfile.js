@@ -1,6 +1,6 @@
 
 const myProfile = {
-	description: "Jag är en passionerad frontendutvecklare med en bakgrund inom beteendevetenskap och terapi. Min utbildning inom webbutveckling har gett mig en stark grund i moderna webbutvecklingsverktyg och agila metoder. Jag strävar efter att skapa responsiva, tillgängliga och användarvänliga webbapplikationer som förbättrar användarupplevelsen. Med min unika kombination av tekniska färdigheter och förståelse för mänskligt beteende, är jag engagerad i att bygga lösningar som inte bara fungerar bra, utan också är intuitiva och tillgängliga för alla."
+	description: "Jag heter Hanna Seldén och jag studerar till Frontendutvecklare på NBI/Handelsakademin i Göteborg. Jag söker LIA praktik under perioden 17 november - 8 februari samt 9 mars - 29 maj. Jag har ett yrkesliv inom funktionsstöd bakom mig, där jag har arbetat med människor med neuropsykiatriska funktionshinder. Jag är nu redo för ett ny karriär inom Frontendutveckling!"
 }
 
 export { myProfile }

@@ -16,15 +16,12 @@
 		color: rgb(106, 104, 104);;
 	  	font-size: 1.2em;
   		line-height: 1.6;
-  		margin: 2em auto;
+  		margin: 1.5em auto;
   		max-width: 800px;
   		padding: 2em;
 		text-align: left;
   		border-radius: 8px;
-  		/*font-family: 'Caveat', cursive;*/
-  		/*font-family: 'Josefin Sans', sans-serif;*/
-  		/*font-family: 'Adhadi', cursive;*/
-  		font-family: 'Gabriela', cursive;
+		font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   		font-size: 1.5em;
 	}
 	.letter-content {

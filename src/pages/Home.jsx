@@ -1,4 +1,4 @@
-import { Link, useParams } from 'react-router'
+import { Link } from 'react-router'
 import imgprofile from '../assets/img-profile.png'
 import './Home.css'
 import {CVList} from '../data/CVList'
@@ -35,9 +35,10 @@ const Home = () => {
 			<li>REST API:er</li>
 			<li>Firestore</li>
 			<li>UX/UI</li>
-			<li>Joi</li>
 			<li>Zustand</li>
 			<li>API</li>
+			<li>CRUD</li>
+			<li>Validering/Joi</li>
 			<li>SCRUM</li>
 			<li>Trello</li>
 			<li>User stories</li>
@@ -67,7 +68,7 @@ const Home = () => {
 		<div className="CV-card">
 			<div className="main-content">
 				<h2 className='cv-header'>PROFIL</h2>
-				<p>{myProfile.description}</p>
+				<p className='profile'>{myProfile.description}</p>
 
 				<h2 className='cv-header'>UTBILDNING</h2>
 			{CVList.map((cv) => (

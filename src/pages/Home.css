@@ -22,6 +22,7 @@
 		text-decoration: underline;
 		color: rgb(223, 185, 128);
 		text-align: center;
+		padding-bottom: 0.3em;
 	}
 	.cv-header {
 		text-decoration: underline;
@@ -97,24 +98,25 @@
     margin: 0;
     border-radius: 0;
     padding: 1em 0.5em;
-    box-sizing: border-box;
+   
   }
   .main-content {
     width: 100%;
     padding: 1em 0.5em;
     margin: 0;
-    box-sizing: border-box;
+   
   }
   .cv-mainheader {
 	padding: 1em;
+  }
+  p .profile {
+	padding-top: 0em;
   }
 }
 }
 @media (min-width: 651px) and (max-width: 1023px) {
   .home {
     
-   
-  
   .sidebar {
     width: 40%;
     margin: 0 0 1em 0;

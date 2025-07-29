@@ -1,4 +1,4 @@
-import { Link, useParams } from 'react-router'
+
 import './Education.css'
 import { studiesList } from '../data/studiesList'
 
@@ -6,7 +6,7 @@ import { studiesList } from '../data/studiesList'
 const Education = () => {
 	return (
 		<div className="education">
-		<h2>Projekt </h2>
+		<h1>Projekt </h1>
 		<div className="education-card">
 		{studiesList.map((studie) => (
 			<div className='my-education' key={studie.id}>

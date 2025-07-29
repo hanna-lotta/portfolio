@@ -1,4 +1,4 @@
-import { Link, useParams } from 'react-router'
+
 import './About.css'
 import { personalLetter } from '../data/personalLetter'
 

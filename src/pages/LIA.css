@@ -3,10 +3,9 @@
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-	
 	width: 100%;
 	min-height: 100vh;
-h2{
+h1{
 	color: rgb(223, 185, 128);
 	text-decoration: underline;
 	padding-top: 1em;
@@ -23,7 +22,25 @@ h2{
 	margin: 1em;
 	color: rgb(106, 104, 104);
 	gap: 0.5em;
-	width: 35em;
+	max-width: 35em;
 	text-align: center;
+}
+.me-img {
+	display: flex;
+	flex-direction: column;
+	background-color: blanchedalmond;
+	padding: 2.5em;
+	border-radius: 0.5em;
+	box-shadow: 0.2rem 0.2rem 0.5rem rgba(8, 8, 8, 0.2);
+	margin: 1em;
+	color: rgb(106, 104, 104);
+	gap: 0.5em;
+	max-width: 35em;
+	text-align: center;
+}
+.me {
+	object-fit: cover;
+	max-width: 100%;
+  	height: auto;
 }
 }
