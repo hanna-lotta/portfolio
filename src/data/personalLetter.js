@@ -10,7 +10,7 @@ const personalLetter =
 
 	I JavaScript-kursen har jag lärt mig grunderna i språket, inklusive variabler, datatyper, funktioner och kontrollstrukturer. Jag har också lärt mig om DOM-manipulation, händelsehantering, asynkron programmering med fetch och att hämta data från API:er. Jag har använt JavaScript för att skapa interaktiva webbapplikationer och för att hantera användarinmatning. 
 
-	JavaScript-kursen var för mig den mest utmanade kursen och jag gjorde en del fel i början men jag lärde mig att hålla ut och att lära mig av felen jag gjort och inte göra om dem igen. Det var en viktig kurs för att lära mig om felsökning och felhantering. Att använda utvecklarläget och lära mig känna igen fel som återkommer och kunna åtgärda dem. 
+	JavaScript-kursen var en viktig kurs för att lära mig om felsökning och felhantering. Att använda utvecklarläget och lära mig känna igen fel som återkommer och kunna åtgärda dem. 
 	
 	I UX/UI kursen använde vi oss av designverktyget Figma för att skapa mockups, wireframes och prototyper. Vi har gjort research på målgrupp och skapat personas för underlag för att förstå användarnas behov och beteenden. Jag har också lärt mig om UX/UI-designprinciper, inklusive färglära och typografi. Jag har använt grafiska designverktyget Pixlr för att klippa och redigera bilder för att passa våra designbehov. Jag har också gjort egna logotyper och använt dem i mina projekt.
 
