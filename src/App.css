@@ -18,7 +18,7 @@ header {
 
 	.links {
 		display: flex;
-		gap: 1em;
+		gap: 0.5em;
 		justify-content: center;
 		> a {
 			display: inline-block;
@@ -81,17 +81,17 @@ main {
   }
 
   .links {
-   /* flex-direction: column;
-    gap: 0.5em;
-    width: 100%;
-    align-items: center;*/
-  }
-/*
-  .links > a {
+   /*flex-direction: column;*/
+    gap: 0.3em;
     width: 90%;
+    align-items: center;
+  }
+
+  .links > a {
+    width: 80%;
     text-align: center;
-    padding: 0.5em 0;
-  }*/
+    padding: 0.4em 0;
+  }
 
   .navigation {
     flex-direction: column;
