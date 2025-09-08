@@ -38,7 +38,7 @@ const Home = () => {
 			<li>Zustand</li>
 			<li>API</li>
 			<li>CRUD</li>
-			<li>Validering/Joi</li>
+			<li>Validering/Joi/Zod</li>
 			<li>SCRUM</li>
 			<li>Trello</li>
 			<li>User stories</li>
@@ -46,8 +46,12 @@ const Home = () => {
 			<li>Responsiv design</li>
 			<li>Tillgänglighet</li>
 			<li>Agila metoder</li>
-			<li>Testning</li>
+			<li>Testning(End-to-End & Playwright)</li>
 			<li>Typrescript</li>
+			<li>Express (REST API)</li>
+			<li>JWT</li>
+			<li>Insomnia</li>
+			<li>Databas/Cloud</li>
 		</ul>
 		<h2 className='languages'>SPRÅK</h2>
 		<ul className='languages-list'>

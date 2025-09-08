@@ -23,9 +23,9 @@ const personalLetter =
 	I kursen för React har jag lärt mig att bygga användargränssnitt med React-biblioteket. Jag har lärt mig om komponentbaserad utveckling, statehantering och props. Jag har också lärt mig att använda React Router för att hantera navigering i applikationen. Genom att använda React har jag kunnat skapa dynamiska och interaktiva webbapplikationer som är lätta att underhålla och utöka. 
 
 	I kursen för testning så gjorde vi enhetstestning med Jest och end-to-end testning med Playwright. Denna kursen var användbar för mig i min utveckling att förstå kod genom att bryta ner funktioner i testbara delar och gå in på micronivå för att säkerställa att koden fungerar som förväntat och att identifiera buggar innan de når produktion. Genom att använda verktyg som Jest och Playwright kunde jag automatisera testningen och förbättra kodens kvalitet. Jag har lärt mig att testa min kod kontinuerligt under utvecklingsprocessen, vilket minskar risken för fel och förbättrar den övergripande stabiliteten i applikationen.
-	
-	Jag ser fram emot den kommande Fullstackkursen med Typeskript där vi kommer att lära oss databaser och säkert mycket mer.
-  
+
+	Jag har påbörjat Fullstackkursen där vi använder Typeskript för att skriva typad JavaScript-kod, vilket hjälper till att fånga fel tidigt i utvecklingsprocessen och förbättrar kodens läsbarhet och underhållbarhet. Vi har också lärt oss att bygga REST API:er med Express, för backendutveckling och hantera autentisering med JWT (JSON Web Tokens) och använda Insomnia för att testa våra API:er. Vi har även fått en introduktion till databaser och molntjänster, vilket är viktigt för att lagra och hantera data i moderna webbapplikationer.
+
   	Min tidigare arbetslivserfarenhet är inom den mäskliga sektorn och jag tidigare har utbildat mig inom Beteendevetenskap och terapi. Jag har i hela mitt yrkesliv arbetat med människor, främst inom olika boeendeformer för personer med behov av stöd inom sektorer som funktionsstöd, demensvård, psykisk ohälsa, barn/unga&familjestöd samt missbruk. 
 	
 	Jag har det senaste åren känt att jag vill byta bana helt och jag började intressera mig för webbutveckling. Jag har känt mig understimulerad och att jag vill lära känna andra delar av mig själv. Jag är nyfiken på att växa med rollen som Frontendutvecklare och vad det kan ge mig i form av personlig utveckling och ett mer kreativt yrkesliv. Jag har lärt mig otroligt mycket inom ämnet på kort tid och jag är spänd på att se hur mycket mer jag kan lära mig i en arbetsmiljö med professionella team. 
