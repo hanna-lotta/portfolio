@@ -1,14 +1,18 @@
 
 import './Education.css'
 import { studiesList } from '../data/studiesList'
+import { useOutletContext } from 'react-router'
 
 
 const Education = () => {
+	const { language } = useOutletContext()
+	const studies = studiesList?.[language] ?? studiesList.sv ?? []
+
 	return (
 		<div className="education">
 		<h1>Projekt </h1>
 		<div className="education-card">
-		{studiesList.map((studie) => (
+		{studies.map((studie) => (
 			<div className='my-education' key={studie.id}>
 			<h3>{studie.title}</h3>
 			<p>{studie.shortDescription}</p>
