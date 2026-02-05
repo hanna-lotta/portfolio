@@ -2,6 +2,14 @@
 const workExperience = {
 	sv: [
 	{
+		id: 0,
+		title: "LIA (Lärande i Arbete) OrbisLinks",
+		company: "OrbisLinks",
+		employer: "OrbisLinks",
+		period: "2025-11-17–2026-02-06",
+		description: "Under min LIA på OrbisLinks hade jag möjlighet att arbeta med deras webbplats, där jag bidrog till utvecklingen och underhållet av sidan. Jag fick värdefull erfarenhet inom webbutveckling, inklusive front-end och back-end teknologier, och hade chansen att samarbeta med ett team av professionella i en verklig arbetsmiljö.",
+	},	
+	{
 		id: 1,
 		title: "Stödassistent",
 		company: "Lindholmsallén 25 & 43",
@@ -19,6 +27,14 @@ const workExperience = {
 	},
 ],
 eng: [
+	{
+		id: 0,
+		title: "Internship at OrbisLinks",
+		company: "OrbisLinks",
+		employer: "OrbisLinks",
+		period: "2025-11-17–2026-02-06",
+		description: "During my internship at OrbisLinks, I had the opportunity to work on their website, where I contributed to the development and maintenance of the site. I gained valuable experience in web development, including front-end and back-end technologies, and had the chance to collaborate with a team of professionals in a real-world setting.",
+	},
 	{
 		id: 1,
 		title: "Support Assistant",

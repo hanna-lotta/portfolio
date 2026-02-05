@@ -59,6 +59,7 @@ const Home = () => {
 			<li>Insomnia</li>
 			<li>DynamoDB</li>
 			<li>AWS</li>
+			<li>Render</li>
 		</ul>
 		<h2 className='languages'>{titles.languages}</h2>
 		<ul className='languages-list'>
