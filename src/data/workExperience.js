@@ -1,3 +1,4 @@
+import { Link } from "react-router"
 
 const workExperience = {
 	sv: [
@@ -8,6 +9,7 @@ const workExperience = {
 		employer: "OrbisLinks",
 		period: "2025-11-17–2026-02-06",
 		description: "Under min LIA på OrbisLinks hade jag möjlighet att arbeta med deras webbplats, där jag bidrog till utvecklingen och underhållet av sidan. Jag fick värdefull erfarenhet inom webbutveckling, inklusive front-end och back-end teknologier, och hade chansen att samarbeta med ett team av professionella i en verklig arbetsmiljö.",
+		Link: "https://orbislinks.com/"
 	},	
 	{
 		id: 1,
