@@ -10,8 +10,9 @@ const LIA = () => {
 	  <div className="lia">
 		<h1>{t.title}</h1>
 		<section className="my-contacts">
-		<h3>{t.seeking}</h3>
+		<h3>{t.done}</h3>
 		<h3>{t.period1}</h3>
+		<h3>{t.seeking}</h3>
 		<h3>{t.period2}</h3>
 		<p>{t.between}</p>
 		</section>
