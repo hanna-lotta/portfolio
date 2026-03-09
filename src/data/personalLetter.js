@@ -28,7 +28,9 @@ const personalLetter = {
 
   	Min tidigare arbetslivserfarenhet är inom den mänskliga sektorn och jag tidigare har utbildat mig inom Beteendevetenskap och terapi. Jag har i hela mitt yrkesliv arbetat med människor, främst inom olika boendeformer för personer med behov av stöd inom sektorer som funktionsstöd, demensvård, psykisk ohälsa, barn/unga&familjestöd samt missbruk. 
 	
-	Jag har det senaste åren känt att jag vill byta bana helt och jag började intressera mig för webbutveckling. Jag har känt mig understimulerad och att jag vill lära känna andra delar av mig själv. Jag är nyfiken på att växa med rollen som Frontendutvecklare och vad det kan ge mig i form av personlig utveckling och ett mer kreativt yrkesliv. Jag har lärt mig otroligt mycket inom ämnet på kort tid och jag är spänd på att se hur mycket mer jag kan lära mig i en arbetsmiljö med professionella team. Jag har nu avklarat min första LIA-praktik hos OrbisLinks. Jag har under denna praktik fått känna på hur det är att arbeta i en professionell miljö och jag har fått värdefull erfarenhet inom webbutveckling, inklusive front-end och back-end teknologier. Jag har också haft chansen att samarbeta med ett team av professionella i en verklig arbetsmiljö. Jag ser fram emot min andra LIA-praktikperiod hos OrbisLinks där jag hoppas kunna fördjupa mina kunskaper och bidra ännu mer till deras webbplats och utveckling.
+	Jag har det senaste åren känt att jag vill byta bana helt och jag började intressera mig för webbutveckling. Jag har känt mig understimulerad och att jag vill lära känna andra delar av mig själv. Jag är nyfiken på att växa med rollen som Frontendutvecklare och vad det kan ge mig i form av personlig utveckling och ett mer kreativt yrkesliv. Jag har lärt mig otroligt mycket inom ämnet på kort tid och jag är spänd på att se hur mycket mer jag kan lära mig i en arbetsmiljö med professionella team. 
+	
+	Jag har nu avklarat min första LIA-praktik hos OrbisLinks. Jag har under denna praktik fått känna på hur det är att arbeta i en professionell miljö och jag har fått värdefull erfarenhet inom webbutveckling, inklusive front-end och back-end teknologier. Jag har också haft chansen att samarbeta med ett team av professionella i en verklig arbetsmiljö. Jag ser fram emot min andra LIA-praktikperiod hos OrbisLinks där jag hoppas kunna fördjupa mina kunskaper och bidra ännu mer till deras webbplats och utveckling.
   `,
 	signature: "Hanna Seldén",
 },
@@ -61,6 +63,8 @@ const personalLetter = {
 	My previous work experience is in the human services sector, and I have previously studied Behavioral Science and Therapy. Throughout my career, I have worked with people, primarily in various housing forms for individuals needing support in sectors such as disability support, dementia care, mental health, child/youth & family support, and addiction.
 
 	In recent years, I have felt the need to completely change my career path and became interested in web development. I have felt understimulated and wanted to explore other parts of myself. I am curious to grow with the role of Frontend Developer and what it can offer me in terms of personal development and a more creative professional life. I have learned an incredible amount in a short time and I am excited to see how much more I can learn in a work environment with professional teams.
+
+	I have now completed my first LIA internship at OrbisLinks. During this internship, I had the opportunity to experience what it's like to work in a professional environment and I gained valuable experience in web development, including front-end and back-end technologies. I also had the chance to collaborate with a team of professionals in a real-world setting. I look forward to my second LIA internship period at OrbisLinks where I hope to deepen my knowledge and contribute even more to their website and development.
   `,
 	signature: "Hanna Seldén",
   }
