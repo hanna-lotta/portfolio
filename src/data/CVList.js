@@ -6,8 +6,8 @@ const CVList = {
       title: "Frontendutvecklare (YH)",
       school: "NBI/Handelsakademin, Göteborg",
       period: "2024–2026",
-      description: "Pågående utbildning inom frontendutveckling med fokus på moderna webbutvecklingsverktyg och agila arbetssätt. Utbildningen omfattar bl.a. HTML, CSS, JavaScript, React, Git/GitHub, REST API:er, Firestore, UX/UI, testning och TypeScript (fullstackmodul). Målet är att bygga responsiva, tillgängliga och funktionella webbapplikationer både i team och individuellt.",
-    },
+      description: "Pågående utbildning inom frontendutveckling med fokus på moderna webbutvecklingsverktyg och agila arbetssätt. Utbildningen omfattar bl.a. HTML, CSS, JavaScript, React, TypeScript, Git/GitHub, Zustand, REST API:er, Firestore/DynamoDB, AWS, Express, UX/UI, testning. Målet är att bygga responsiva, tillgängliga och funktionella webbapplikationer både i team och individuellt.",
+    },  
     {
       id: 2,
       title: "Beteendevetenskap",
@@ -26,7 +26,7 @@ eng: [
 	  title: "Frontend Developer (YH)",
 	  school: "NBI/Handelsakademin, Gothenburg",
 	  period: "2024–2026",
-	  description: "Ongoing education in frontend development focusing on modern web development tools and agile methodologies. The program includes HTML, CSS, JavaScript, React, Git/GitHub, REST APIs, Firestore, UX/UI, testing, and TypeScript (fullstack module). The goal is to build responsive, accessible, and functional web applications both in teams and individually.",
+	  description: "Ongoing education in frontend development focusing on modern web development tools and agile methodologies. The program includes HTML, CSS, JavaScript, React, TypeScript, Git/GitHub, Zustand, REST APIs, Firestore/DynamoDB, AWS, Express, UX/UI, testing. The goal is to build responsive, accessible, and functional web applications both in teams and individually.",
 	},
 	{
 	  id: 2,
